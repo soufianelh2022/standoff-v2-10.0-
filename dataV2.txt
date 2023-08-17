@@ -37,14 +37,14 @@
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"description1 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title2 ser","desc":"description2 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title3 ser","desc":"description3 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title4 ser","desc":"description4 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title5 ser","desc":"description5 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title6 ser","desc":"description6 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title7 ser","desc":"description7 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"},
-  {"title":"title8 ser","desc":"description8 ser","photo":"https://about.gitlab.com/images/press/logo/jpg/gitlab-logo-600.jpg"}
+  {"title":"title1 ser","desc":"Standoff V2 is an advanced and updated version of the original Standoff game","photo":"https://iili.io/HDDhtHX.webp"},
+  {"title":"title2 ser","desc":"offering an immersive gaming experience for players who enjoy first-person shooter (FPS) games","photo":"https://iili.io/HDDhDRn.webp"},
+  {"title":"title3 ser","desc":" This version introduces significant enhancements, ranging from graphics and gameplay mechanics to new features and content.","photo":"https://iili.io/HDDhLlI.webp"},
+  {"title":"title4 ser","desc":"Standoff V2 boasts improved graphics that elevate the visual quality of the game. Enhanced textures","photo":"https://iili.io/HDDhQSt.webp"},
+  {"title":"title5 ser","desc":"lighting effects, and detailed environments create a more realistic and captivating atmosphere. ","photo":"https://iili.io/HDDhbNs.webp"},
+  {"title":"title6 ser","desc":"Players can immerse themselves in intricately designed maps that reflect diverse settings, from urban landscapes to remote military installations.","photo":"https://iili.io/HDDhmDG.webp"},
+  {"title":"title7 ser","desc":"The gameplay in Standoff V2 remains true to the fast-paced FPS genre, but with refined mechanics that enhance player control and interaction","photo":"https://iili.io/HDDj9V4.webp"},
+  {"title":"title8 ser","desc":"Shooting mechanics have been optimized for precision and responsiveness, ensuring that each bullet fired and every action taken feels impactful and accurate.","photo":"https://iili.io/HDDhyxf.webp"}
    ]
  
 }
