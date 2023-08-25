@@ -19,32 +19,32 @@
 "admob_reward":"ca-app-pub-3940256099942544/5224354917",
   
   
-"yandex_banner":"R-M-DEMO-320x100",
-"yandex_inter":"R-M-DEMO-interstitial",
-"yandex_native":"R-M-DEMO-native-i",
-"yandex_reward":"demo-rewarded-yandex",
+"yandex_banner":"R-M-2745979-1",
+"yandex_inter":"R-M-2745979-4",
+"yandex_native":"R-M-2745979-3",
+"yandex_reward":"R-M-2745979-2",
 
 
 
 "start_vpn":"yes",
-"banner_network_choice":"admob", 
-"interstisial_network_choice":"admob", 
-"reward_network_choice":"admob",
-"native_network_choice":"admob"
+"banner_network_choice":"yandex", 
+"interstisial_network_choice":"yandex", 
+"reward_network_choice":"yandex",
+"native_network_choice":"yandex"
   
   
 
 },
  
  "my_data":[
-  {"title":"title1 ser","desc":"Standoff V2 is an advanced and updated version of the original Standoff game","photo":"https://iili.io/HDDhtHX.webp"},
-  {"title":"title2 ser","desc":"offering an immersive gaming experience for players who enjoy first-person shooter (FPS) games","photo":"https://iili.io/HDDhDRn.webp"},
-  {"title":"title3 ser","desc":" This version introduces significant enhancements, ranging from graphics and gameplay mechanics to new features and content.","photo":"https://iili.io/HDDhLlI.webp"},
-  {"title":"title4 ser","desc":"Standoff V2 boasts improved graphics that elevate the visual quality of the game. Enhanced textures","photo":"https://iili.io/HDDhQSt.webp"},
-  {"title":"title5 ser","desc":"lighting effects, and detailed environments create a more realistic and captivating atmosphere. ","photo":"https://iili.io/HDDhbNs.webp"},
-  {"title":"title6 ser","desc":"Players can immerse themselves in intricately designed maps that reflect diverse settings, from urban landscapes to remote military installations.","photo":"https://iili.io/HDDhmDG.webp"},
-  {"title":"title7 ser","desc":"The gameplay in Standoff V2 remains true to the fast-paced FPS genre, but with refined mechanics that enhance player control and interaction","photo":"https://iili.io/HDDj9V4.webp"},
-  {"title":"title8 ser","desc":"Shooting mechanics have been optimized for precision and responsiveness, ensuring that each bullet fired and every action taken feels impactful and accurate.","photo":"https://iili.io/HDDhyxf.webp"}
+  {"title":"title1 ser","desc":"In the rapidly evolving landscape of technology, the Standoff series has consistently stood out as a benchmark for innovation and excellence in the realm of virtual combat games. With the recent release of Standoff V2-10.0, the franchise has taken another remarkable leap forward, captivating players with its stunning visuals, ","photo":"https://iili.io/HyfO7l2.jpg"},
+  {"title":"title2 ser","desc":" immersive gameplay, and a host of new features that redefine the gaming experience. This article delves into the exciting world of Standoff V2-10.0 and highlights its groundbreaking advancements.","photo":"https://iili.io/HyfOMVj.jpg"},
+  {"title":"title3 ser","desc":" One of the most striking aspects of Standoff V2-10.0 is its visual fidelity. The game pushes the boundaries of graphics technology, delivering breathtakingly realistic environments, character models, and effects. Utilizing cutting-edge rendering techniques, including ray tracing and advanced lighting models, the game achieves a level of immersion that was once thought to be unattainable. From the intricate details on weapons to the dynamic weather systems that influence gameplay, every aspect of the game world is brought to life in stunning detail..","photo":"https://iili.io/HyfO0Ne.jpg"},
+  {"title":"title4 ser","desc":"Standoff V2-10.0 takes player engagement to new heights with its immersive gameplay mechanics. The introduction of realistic ballistics and physics simulations adds a layer of authenticity to weapon handling and combat strategies. Players must now account for factors such as bullet drop, wind resistance","photo":"https://iili.io/HyfOYSS.jpg"},
+  {"title":"title5 ser","desc":"and environmental obstacles when aiming and firing, elevating the tactical depth of the game. This not only rewards skillful marksmanship but also encourages players to adapt their strategies based on the ever-changing battlefield conditions.. ","photo":"https://iili.io/HyfOGob.jpg"},
+  {"title":"title6 ser","desc":"nnovation thrives in Standoff V2-10.0's dynamic environments. Maps are no longer static battlegrounds; instead, they evolve over time, offering players an ever-shifting experience. Day-night cycles, dynamic weather patterns, and destructible elements inject unpredictability into matches, ensuring that no two games are alike. The introduction of interactive elements within the environment, such as deployable barriers and destructible cover, further emphasizes the need for strategic thinking and adaptability.","photo":"https://iili.io/HyfOjUB.jpg"},
+  {"title":"title7 ser","desc":"A standout feature of Standoff V2-10.0 is its expanded arsenal of weapons and gear. From an extensive selection of firearms to specialized equipment like drones and tactical grenades, players have a plethora of options at their disposal to suit their playstyle. The game also introduces an intricate customization system, allowing players to modify their weapons and gear with various attachments and skins","photo":"https://iili.io/HyfOhlV.jpg"},
+  {"title":"title8 ser","desc":"With its refined gameplay mechanics and balanced design, Standoff V2-10.0 has the potential to become a cornerstone of the e-sports world. The game's emphasis on skill, strategy, and teamwork makes it a natural fit for competitive play. Developers have also invested in comprehensive spectator modes, robust anti-cheat measures","photo":"https://iili.io/HyfONHP.jpg"}
    ]
  
 }
